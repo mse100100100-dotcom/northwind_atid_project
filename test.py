@@ -1,0 +1,1 @@
+print("Tzedek is king!")
